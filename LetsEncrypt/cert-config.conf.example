@@ -1,0 +1,8 @@
+-w /absolute/path/to/website/root/website1 
+-d website1.org 
+-d www.website1.test 
+-w /absolute/path/to/website/root/website1sub
+-d sub.website1.test 
+-w /absolute/path/to/website/root/website2
+-d website2.de 
+-d www.website2.test 
